@@ -17,7 +17,7 @@ int zashifrtext = 0;
 int razshifrtext[100] = { 0 };
 int result1[100] = { 0 };
 unsigned int a = 0;
-char textin[101] = { 'a' };
+char textin[101] = { 'a' };//хуй
 char output[101] = { 'a' };
 char polnrashifrovka[100];
 char s1[50];
